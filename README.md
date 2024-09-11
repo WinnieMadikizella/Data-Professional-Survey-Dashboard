@@ -1,1 +1,2 @@
-# Data-Professional-Survey-Dashboard
+# Data Professional Survey Dashboard
+The survey analysis of data professionals, presented through a Power BI dashboard, provides a detailed view of the state of the field. Key metrics include work/life balance ratings, happiness with salary ratings, and average salary by job title, etc. The dashboard also highlights salary variations across countries, programming language preferences, average salary by gender, education levels, and participant demographics, such as age and number of respondents, offering a comprehensive understanding of trends and challenges in the data profession.
